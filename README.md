@@ -14,14 +14,13 @@ I'm a Frontend developer with my ♥ in React. I'm a Twitch streamer and content
 <br>
 
 What i'm up to
-🔭 I’m currently working @ TradeHelm.
 🌱 I’m currently working with React.
-👯 Owner of a Developer Community.
+👯 Owner of a Gamer Community.
 💬 Creating content in my blog, Twitch and YouTube.
 
 Languages and Tools
     
-- 🔭 I’m currently working on Digifianz, Laura Galeano Mkt y CoderHouse.
+- 🔭 I’m currently working on Digifianz, Laura Galeano Mkt and CoderHouse.
 - 📫 How to reach me: @agusroletto TW/IG
 
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;"></a>
