@@ -16,7 +16,7 @@ I'm a Frontend developer with my ♥ in React. I'm a Twitch streamer and content
 What i'm up to<br>
 🌱 I’m currently working with React.<br>
 👯 Owner of a Gamer Community.<br>
-💬 Creating content in my blog, Twitch and YouTube.<br>
+💬 Creating content in Twitch and YouTube.<br>
 
 Languages and Tools
     
